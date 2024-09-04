@@ -1,6 +1,6 @@
 # Gym Website
 
-I am currently learn web development and this is my first website. I have made it using HTML and CSS in VS-Code. 
+I am currently learning web development and this is my first website. I have made it using HTML and CSS in VS-Code. 
 
 ![Homepage Screenshot](/output/Homepage.png)
 
